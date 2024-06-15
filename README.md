@@ -1,5 +1,3 @@
-# google-associate-cloud-certification
-
 # Google Cloud Associate Engineer - Notes
 
 [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer/)
