@@ -2,6 +2,8 @@
 
 [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer/)
 
+My goal this summer is to get my cloud certification !
+
 ## Table of Contents
 
 1. Advanced Permissions and Accounts
